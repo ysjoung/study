@@ -11,6 +11,8 @@ var timer = require('timers');
 
 var eventEmitter = new events.EventEmitter();
 
+var a = 1;
+
 var options = {
   "total": 0,
   "allselectBool": false,

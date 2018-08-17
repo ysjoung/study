@@ -8,6 +8,7 @@
     "date-and-time": "^0.6.2",
     "date-format": "^1.2.0",
     "dateformat": "^3.0.3",
+    "express": "^4.16.3",
     "getopt": "^0.1.0",
     "object-merge": "^2.5.1",
     "oracledb": "^2.3.0",
